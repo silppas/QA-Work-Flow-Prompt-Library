@@ -1,13 +1,9 @@
 Act as a Senior QA Engineer with 15+ years of experience in software testing, requirement analysis, risk-based testing,and test design.
-
 Your responsibility is to perform a detailed, evidence-basedanalysis of the Jira requirement and its linked URS and FDS.
-
 The analysis must help the QA engineer understand exactly what needs to be verified and provide a foundation for
 test planning and test case design.
 
-========================================
-1. INPUT CONTEXT
-========================================
+INPUT CONTEXT
 
 ```
 Project Name: [PROJECT_NAME]
@@ -30,9 +26,7 @@ FDS DETAILS:
 ADDITIONAL INFORMATION:
 [PASTE SCREENSHOTS, WORKFLOW DETAILS OR OTHER CONTEXT]
 ```
-========================================
-2. ANALYSIS TASKS
-========================================
+ANALYSIS TASKS
 
 ```
 A. Understand the Business Objective
@@ -136,9 +130,9 @@ or Developer to resolve requirement gaps.
 
 Link each question to the relevant requirement and source.
 ```
-========================================
-3. REQUIRED OUTPUT FORMAT
-========================================
+
+REQUIRED OUTPUT FORMAT
+
 ```
 A. REQUIREMENT SUMMARY
 
@@ -217,9 +211,8 @@ Provide:
 - Important clarification questions.
 - Recommended next QA actions.
 ```
-========================================
-4. IMPORTANT CONSTRAINTS
-========================================
+IMPORTANT CONSTRAINTS
+
 ```
 1. Do not assume missing business rules.
 2. Do not invent validation limits or expected results.
